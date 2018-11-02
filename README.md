@@ -20,15 +20,15 @@
 
 ### 2. 支持英文和日文联想输入
 
-#### 1) 英文联想输入
+#### 1) 英文输入
 
-词库来自 Rime 中的 easy english 输入法词库。不支持语句输入。
+词库来自 Rime 中的 easy english 输入法词库。支持单词自动补全，但不支持语句输入。
 
 <img width="528" height="390" src="https://raw.githubusercontent.com/lippmann/lrime/master/Samples%20screenshots/%E8%8B%B1%E6%96%87%E8%81%94%E6%83%B3%E8%BE%93%E5%85%A5%E6%B3%95%E7%A4%BA%E4%BE%8B.png"/>
 
-#### 2) 日文联想输入
+#### 2) 日文输入
 
-日文输入法来自 @天珩 设计的「nihongo-r」日文输入方案。由于 GitHub 不支持 25M 以上文档，故日文输入法词典文件为压缩包。不支持语句输入。
+日文输入法来自 @天珩 设计的「nihongo-r」日文输入方案。由于 GitHub 不支持 25M 以上文档，故日文输入法词典文件为压缩包。支持单语自动补全，但不支持语句输入。
 
 <img width="528" height="390" src="https://raw.githubusercontent.com/lippmann/lrime/master/Samples%20screenshots/%E6%97%A5%E6%96%87%E8%81%94%E6%83%B3%E8%BE%93%E5%85%A5%E6%B3%95%E7%A4%BA%E4%BE%8B.png"/>
 
