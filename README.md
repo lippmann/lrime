@@ -9,7 +9,8 @@
 #### 1) 支持**非完全匹配**的辅码
 
 使用的是 Github 用户 @henices 制作的「自然码 2000」方案的带辅码码表。但 zrm2000.schema.yaml 经过本人微调，如需原版请至 @henices 的相关页面下载。**非完全匹配**是指，不会像单独使用「自然码 2000」方案那样精确使用码表，但键入辅码时仍然会出现在选词列表中。
-![如输入 tamfr，「他们」一词即处在候选词第一位](https://raw.githubusercontent.com/lippmann/lrime/master/Samples%20screenshots/%E5%B8%A6%E8%BE%85%E7%A0%81%E8%87%AA%E7%84%B6%E7%A0%81%E7%A4%BA%E4%BE%8B.png)
+
+如输入 tamfr，「他们」一词即处在候选词第一位：
 <img width="528" height="390" src="https://raw.githubusercontent.com/lippmann/lrime/master/Samples%20screenshots/%E5%B8%A6%E8%BE%85%E7%A0%81%E8%87%AA%E7%84%B6%E7%A0%81%E7%A4%BA%E4%BE%8B.png"/>
 
 如果你对词库的要求不高，建议使用 「自然码 2000」方案，而不是本方案。
@@ -21,17 +22,17 @@
 #### 1) 英文联想输入
 
 词库来自 Rime 中的 easy english 输入法词库。不支持语句输入。
+<img width="528" height="390" src="https://raw.githubusercontent.com/lippmann/lrime/master/Samples%20screenshots/%E8%8B%B1%E6%96%87%E8%81%94%E6%83%B3%E8%BE%93%E5%85%A5%E6%B3%95%E7%A4%BA%E4%BE%8B.png"/>
 
 #### 2) 日文联想输入
 
 日文输入法来自 @天珩 设计的「nihongo-r」日文输入方案。由于 GitHub 不支持 25M 以上文档，故日文输入法词典文件为压缩包。不支持语句输入。
 日语输入法特殊符号输入方式：
+<img width="528" height="390" src="https://raw.githubusercontent.com/lippmann/lrime/master/Samples%20screenshots/%E6%97%A5%E6%96%87%E8%81%94%E6%83%B3%E8%BE%93%E5%85%A5%E6%B3%95%E7%A4%BA%E4%BE%8B.png"/>
+
 > つ～tsu
-
 > ん～n
-
 > 片假名长音符号ー～ q
-
 > 促音っ～ t
 
 
