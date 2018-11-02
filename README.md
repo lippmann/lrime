@@ -4,6 +4,6 @@
 
 ## 本定制输入法特征：
 
-1. 带辅码，使用的是 Github 用户 @henices 制作的「自然码 2000」（zrm2000.schema.yaml）方案的带辅码码表。本 project 中的「自然码 2000」方案经过本人微调，如需原版请至 @henices 的相关页面下载。
-2. 支持 luna_pinyin.extended 外挂词库设定。
-3. 英文联想输入，但不支持中英混输。英文词库来自 Rime 中的 easy english 输入法词库。
+1. 支持辅码，使用的是 Github 用户 @henices 制作的「自然码 2000」（zrm2000.schema.yaml）方案的带辅码码表。本 project 中的「自然码 2000」方案经过本人微调，如需原版请至 @henices 的相关页面下载。
+2. 支持 luna_pinyin.extended 外挂词库。
+3. 支持英文联想输入，但不支持中英混输。英文词库来自 Rime 中的 easy english 输入法词库。
