@@ -32,11 +32,9 @@
 
 <img width="528" height="390" src="https://raw.githubusercontent.com/lippmann/lrime/master/Samples%20screenshots/%E6%97%A5%E6%96%87%E8%81%94%E6%83%B3%E8%BE%93%E5%85%A5%E6%B3%95%E7%A4%BA%E4%BE%8B.png"/>
 
-日文输入法特殊符号输入方式：
-*つ～tsu
-ん～n
-片假名长音ー～ q
-促音っ～ t*
+##### 日文输入法特殊符号输入方式
+
+つ → tsu、ん → n、片假名长音ー → q、促音っ → t
 
 
 ## 链接
